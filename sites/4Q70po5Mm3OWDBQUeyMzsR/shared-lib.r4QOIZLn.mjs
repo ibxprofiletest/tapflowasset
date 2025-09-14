@@ -4105,6 +4105,36 @@ var bn,
                                 0 +
                                 12,
                               children: s(O, {
+                                className: `framer-7572t-container`,
+                                layoutDependency: H,
+                                layoutId: `qiJUYp81T-container`,
+                                nodeId: `qiJUYp81T`,
+                                rendersWithMotion: !0,
+                                scopeId: `nyDxmLt7o`,
+                                children: s(Z, {
+                                  height: `100%`,
+                                  id: `qiJUYp81T`,
+                                  Kr62I1Ee9: `tapflow.co/auth/signin`,
+                                  layoutId: `qiJUYp81T`,
+                                  Mv16WKTEe: `Log in`,
+                                  NctncU19N: `var(--token-302b6139-62bf-4a65-a11c-00b7552c4831, rgb(255, 61, 63))`,
+                                  r9wjJW8ZN: !1,
+                                  style: { height: `100%` },
+                                  variant: `qZMGAGPE0`,
+                                  width: `100%`,
+                                  XiCzUhcM5: !1,
+                                  xkpUt4F21: `New`,
+                                }),
+                              }),
+                            }),
+                            s(x, {
+                              height: 28,
+                              y:
+                                (u?.y || 0) +
+                                (0 + ((u?.height || 52) - 0 - 52) / 2) +
+                                0 +
+                                12,
+                              children: s(O, {
                                 className: `framer-1derri5-container`,
                                 layoutDependency: H,
                                 layoutId: `zOcXcQqG7-container`,
